@@ -1,0 +1,362 @@
+[
+  {
+    "sectionId": "SEC001",
+    "name": "A",
+    "classId": "6ab36e1ceb62b10c06c504f6",
+    "_id": "6ab36e1ceb62b10c06c5050b",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC002",
+    "name": "B",
+    "classId": "6ab36e1ceb62b10c06c504f6",
+    "_id": "6ab36e1ceb62b10c06c5050c",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC003",
+    "name": "A",
+    "classId": "6ab36e1ceb62b10c06c504f7",
+    "_id": "6ab36e1ceb62b10c06c5050d",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC004",
+    "name": "B",
+    "classId": "6ab36e1ceb62b10c06c504f7",
+    "_id": "6ab36e1ceb62b10c06c5050e",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC005",
+    "name": "A",
+    "classId": "6ab36e1ceb62b10c06c504f8",
+    "_id": "6ab36e1ceb62b10c06c5050f",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC006",
+    "name": "B",
+    "classId": "6ab36e1ceb62b10c06c504f8",
+    "_id": "6ab36e1ceb62b10c06c50510",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC007",
+    "name": "A",
+    "classId": "6ab36e1ceb62b10c06c504f9",
+    "_id": "6ab36e1ceb62b10c06c50511",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC008",
+    "name": "B",
+    "classId": "6ab36e1ceb62b10c06c504f9",
+    "_id": "6ab36e1ceb62b10c06c50512",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC009",
+    "name": "A",
+    "classId": "6ab36e1ceb62b10c06c504fa",
+    "_id": "6ab36e1ceb62b10c06c50513",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC010",
+    "name": "B",
+    "classId": "6ab36e1ceb62b10c06c504fa",
+    "_id": "6ab36e1ceb62b10c06c50514",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC011",
+    "name": "A",
+    "classId": "6ab36e1ceb62b10c06c504fb",
+    "_id": "6ab36e1ceb62b10c06c50515",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC012",
+    "name": "B",
+    "classId": "6ab36e1ceb62b10c06c504fb",
+    "_id": "6ab36e1ceb62b10c06c50516",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC013",
+    "name": "A",
+    "classId": "6ab36e1ceb62b10c06c504fc",
+    "_id": "6ab36e1ceb62b10c06c50517",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC014",
+    "name": "B",
+    "classId": "6ab36e1ceb62b10c06c504fc",
+    "_id": "6ab36e1ceb62b10c06c50518",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC015",
+    "name": "A",
+    "classId": "6ab36e1ceb62b10c06c504fd",
+    "_id": "6ab36e1ceb62b10c06c50519",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC016",
+    "name": "B",
+    "classId": "6ab36e1ceb62b10c06c504fd",
+    "_id": "6ab36e1ceb62b10c06c5051a",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC017",
+    "name": "A",
+    "classId": "6ab36e1ceb62b10c06c504fe",
+    "_id": "6ab36e1ceb62b10c06c5051b",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC018",
+    "name": "B",
+    "classId": "6ab36e1ceb62b10c06c504fe",
+    "_id": "6ab36e1ceb62b10c06c5051c",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC019",
+    "name": "A",
+    "classId": "6ab36e1ceb62b10c06c504ff",
+    "_id": "6ab36e1ceb62b10c06c5051d",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC020",
+    "name": "B",
+    "classId": "6ab36e1ceb62b10c06c504ff",
+    "_id": "6ab36e1ceb62b10c06c5051e",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC021",
+    "name": "A",
+    "classId": "6ab36e1ceb62b10c06c50500",
+    "_id": "6ab36e1ceb62b10c06c5051f",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC022",
+    "name": "B",
+    "classId": "6ab36e1ceb62b10c06c50500",
+    "_id": "6ab36e1ceb62b10c06c50520",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC023",
+    "name": "A",
+    "classId": "6ab36e1ceb62b10c06c50501",
+    "_id": "6ab36e1ceb62b10c06c50521",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC024",
+    "name": "B",
+    "classId": "6ab36e1ceb62b10c06c50501",
+    "_id": "6ab36e1ceb62b10c06c50522",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC025",
+    "name": "A",
+    "classId": "6ab36e1ceb62b10c06c50502",
+    "_id": "6ab36e1ceb62b10c06c50523",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC026",
+    "name": "B",
+    "classId": "6ab36e1ceb62b10c06c50502",
+    "_id": "6ab36e1ceb62b10c06c50524",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC027",
+    "name": "A",
+    "classId": "6ab36e1ceb62b10c06c50503",
+    "_id": "6ab36e1ceb62b10c06c50525",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC028",
+    "name": "B",
+    "classId": "6ab36e1ceb62b10c06c50503",
+    "_id": "6ab36e1ceb62b10c06c50526",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC029",
+    "name": "A",
+    "classId": "6ab36e1ceb62b10c06c50504",
+    "_id": "6ab36e1ceb62b10c06c50527",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC030",
+    "name": "B",
+    "classId": "6ab36e1ceb62b10c06c50504",
+    "_id": "6ab36e1ceb62b10c06c50528",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC031",
+    "name": "A",
+    "classId": "6ab36e1ceb62b10c06c50505",
+    "_id": "6ab36e1ceb62b10c06c50529",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC032",
+    "name": "B",
+    "classId": "6ab36e1ceb62b10c06c50505",
+    "_id": "6ab36e1ceb62b10c06c5052a",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC033",
+    "name": "A",
+    "classId": "6ab36e1ceb62b10c06c50506",
+    "_id": "6ab36e1ceb62b10c06c5052b",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC034",
+    "name": "B",
+    "classId": "6ab36e1ceb62b10c06c50506",
+    "_id": "6ab36e1ceb62b10c06c5052c",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC035",
+    "name": "A",
+    "classId": "6ab36e1ceb62b10c06c50507",
+    "_id": "6ab36e1ceb62b10c06c5052d",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC036",
+    "name": "B",
+    "classId": "6ab36e1ceb62b10c06c50507",
+    "_id": "6ab36e1ceb62b10c06c5052e",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC037",
+    "name": "A",
+    "classId": "6ab36e1ceb62b10c06c50508",
+    "_id": "6ab36e1ceb62b10c06c5052f",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC038",
+    "name": "B",
+    "classId": "6ab36e1ceb62b10c06c50508",
+    "_id": "6ab36e1ceb62b10c06c50530",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC039",
+    "name": "A",
+    "classId": "6ab36e1ceb62b10c06c50509",
+    "_id": "6ab36e1ceb62b10c06c50531",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  },
+  {
+    "sectionId": "SEC040",
+    "name": "B",
+    "classId": "6ab36e1ceb62b10c06c50509",
+    "_id": "6ab36e1ceb62b10c06c50532",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.614Z",
+    "updatedAt": "2026-09-23T06:13:48.614Z"
+  }
+]

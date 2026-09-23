@@ -1,0 +1,47 @@
+[
+  {
+    "departmentId": "DEPT001",
+    "name": "Computer Science and Engineering",
+    "code": "CSE",
+    "_id": "6ab36e1ceb62b10c06c504f0",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.596Z",
+    "updatedAt": "2026-09-23T06:13:48.596Z"
+  },
+  {
+    "departmentId": "DEPT002",
+    "name": "Information Technology",
+    "code": "IT",
+    "_id": "6ab36e1ceb62b10c06c504f1",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.597Z",
+    "updatedAt": "2026-09-23T06:13:48.597Z"
+  },
+  {
+    "departmentId": "DEPT003",
+    "name": "Electronics and Communication Engineering",
+    "code": "ECE",
+    "_id": "6ab36e1ceb62b10c06c504f2",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.597Z",
+    "updatedAt": "2026-09-23T06:13:48.597Z"
+  },
+  {
+    "departmentId": "DEPT004",
+    "name": "Electrical and Electronics Engineering",
+    "code": "EEE",
+    "_id": "6ab36e1ceb62b10c06c504f3",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.597Z",
+    "updatedAt": "2026-09-23T06:13:48.597Z"
+  },
+  {
+    "departmentId": "DEPT005",
+    "name": "Mechanical Engineering",
+    "code": "MECH",
+    "_id": "6ab36e1ceb62b10c06c504f4",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.597Z",
+    "updatedAt": "2026-09-23T06:13:48.597Z"
+  }
+]

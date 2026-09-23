@@ -1,0 +1,222 @@
+[
+  {
+    "classId": "CLS001",
+    "name": "I CSE",
+    "departmentId": "6ab36e1ceb62b10c06c504f0",
+    "semester": 1,
+    "academicYear": "2026-2027",
+    "_id": "6ab36e1ceb62b10c06c504f6",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.607Z",
+    "updatedAt": "2026-09-23T06:13:48.607Z"
+  },
+  {
+    "classId": "CLS002",
+    "name": "II CSE",
+    "departmentId": "6ab36e1ceb62b10c06c504f0",
+    "semester": 3,
+    "academicYear": "2026-2027",
+    "_id": "6ab36e1ceb62b10c06c504f7",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.607Z",
+    "updatedAt": "2026-09-23T06:13:48.607Z"
+  },
+  {
+    "classId": "CLS003",
+    "name": "III CSE",
+    "departmentId": "6ab36e1ceb62b10c06c504f0",
+    "semester": 5,
+    "academicYear": "2026-2027",
+    "_id": "6ab36e1ceb62b10c06c504f8",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.607Z",
+    "updatedAt": "2026-09-23T06:13:48.607Z"
+  },
+  {
+    "classId": "CLS004",
+    "name": "IV CSE",
+    "departmentId": "6ab36e1ceb62b10c06c504f0",
+    "semester": 7,
+    "academicYear": "2026-2027",
+    "_id": "6ab36e1ceb62b10c06c504f9",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.607Z",
+    "updatedAt": "2026-09-23T06:13:48.607Z"
+  },
+  {
+    "classId": "CLS005",
+    "name": "I IT",
+    "departmentId": "6ab36e1ceb62b10c06c504f1",
+    "semester": 1,
+    "academicYear": "2026-2027",
+    "_id": "6ab36e1ceb62b10c06c504fa",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.607Z",
+    "updatedAt": "2026-09-23T06:13:48.607Z"
+  },
+  {
+    "classId": "CLS006",
+    "name": "II IT",
+    "departmentId": "6ab36e1ceb62b10c06c504f1",
+    "semester": 3,
+    "academicYear": "2026-2027",
+    "_id": "6ab36e1ceb62b10c06c504fb",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.607Z",
+    "updatedAt": "2026-09-23T06:13:48.607Z"
+  },
+  {
+    "classId": "CLS007",
+    "name": "III IT",
+    "departmentId": "6ab36e1ceb62b10c06c504f1",
+    "semester": 5,
+    "academicYear": "2026-2027",
+    "_id": "6ab36e1ceb62b10c06c504fc",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.607Z",
+    "updatedAt": "2026-09-23T06:13:48.607Z"
+  },
+  {
+    "classId": "CLS008",
+    "name": "IV IT",
+    "departmentId": "6ab36e1ceb62b10c06c504f1",
+    "semester": 7,
+    "academicYear": "2026-2027",
+    "_id": "6ab36e1ceb62b10c06c504fd",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.607Z",
+    "updatedAt": "2026-09-23T06:13:48.607Z"
+  },
+  {
+    "classId": "CLS009",
+    "name": "I ECE",
+    "departmentId": "6ab36e1ceb62b10c06c504f2",
+    "semester": 1,
+    "academicYear": "2026-2027",
+    "_id": "6ab36e1ceb62b10c06c504fe",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.607Z",
+    "updatedAt": "2026-09-23T06:13:48.607Z"
+  },
+  {
+    "classId": "CLS010",
+    "name": "II ECE",
+    "departmentId": "6ab36e1ceb62b10c06c504f2",
+    "semester": 3,
+    "academicYear": "2026-2027",
+    "_id": "6ab36e1ceb62b10c06c504ff",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.607Z",
+    "updatedAt": "2026-09-23T06:13:48.607Z"
+  },
+  {
+    "classId": "CLS011",
+    "name": "III ECE",
+    "departmentId": "6ab36e1ceb62b10c06c504f2",
+    "semester": 5,
+    "academicYear": "2026-2027",
+    "_id": "6ab36e1ceb62b10c06c50500",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.607Z",
+    "updatedAt": "2026-09-23T06:13:48.607Z"
+  },
+  {
+    "classId": "CLS012",
+    "name": "IV ECE",
+    "departmentId": "6ab36e1ceb62b10c06c504f2",
+    "semester": 7,
+    "academicYear": "2026-2027",
+    "_id": "6ab36e1ceb62b10c06c50501",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.607Z",
+    "updatedAt": "2026-09-23T06:13:48.607Z"
+  },
+  {
+    "classId": "CLS013",
+    "name": "I EEE",
+    "departmentId": "6ab36e1ceb62b10c06c504f3",
+    "semester": 1,
+    "academicYear": "2026-2027",
+    "_id": "6ab36e1ceb62b10c06c50502",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.607Z",
+    "updatedAt": "2026-09-23T06:13:48.607Z"
+  },
+  {
+    "classId": "CLS014",
+    "name": "II EEE",
+    "departmentId": "6ab36e1ceb62b10c06c504f3",
+    "semester": 3,
+    "academicYear": "2026-2027",
+    "_id": "6ab36e1ceb62b10c06c50503",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.607Z",
+    "updatedAt": "2026-09-23T06:13:48.607Z"
+  },
+  {
+    "classId": "CLS015",
+    "name": "III EEE",
+    "departmentId": "6ab36e1ceb62b10c06c504f3",
+    "semester": 5,
+    "academicYear": "2026-2027",
+    "_id": "6ab36e1ceb62b10c06c50504",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.607Z",
+    "updatedAt": "2026-09-23T06:13:48.607Z"
+  },
+  {
+    "classId": "CLS016",
+    "name": "IV EEE",
+    "departmentId": "6ab36e1ceb62b10c06c504f3",
+    "semester": 7,
+    "academicYear": "2026-2027",
+    "_id": "6ab36e1ceb62b10c06c50505",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.607Z",
+    "updatedAt": "2026-09-23T06:13:48.607Z"
+  },
+  {
+    "classId": "CLS017",
+    "name": "I MECH",
+    "departmentId": "6ab36e1ceb62b10c06c504f4",
+    "semester": 1,
+    "academicYear": "2026-2027",
+    "_id": "6ab36e1ceb62b10c06c50506",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.607Z",
+    "updatedAt": "2026-09-23T06:13:48.607Z"
+  },
+  {
+    "classId": "CLS018",
+    "name": "II MECH",
+    "departmentId": "6ab36e1ceb62b10c06c504f4",
+    "semester": 3,
+    "academicYear": "2026-2027",
+    "_id": "6ab36e1ceb62b10c06c50507",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.607Z",
+    "updatedAt": "2026-09-23T06:13:48.607Z"
+  },
+  {
+    "classId": "CLS019",
+    "name": "III MECH",
+    "departmentId": "6ab36e1ceb62b10c06c504f4",
+    "semester": 5,
+    "academicYear": "2026-2027",
+    "_id": "6ab36e1ceb62b10c06c50508",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.607Z",
+    "updatedAt": "2026-09-23T06:13:48.607Z"
+  },
+  {
+    "classId": "CLS020",
+    "name": "IV MECH",
+    "departmentId": "6ab36e1ceb62b10c06c504f4",
+    "semester": 7,
+    "academicYear": "2026-2027",
+    "_id": "6ab36e1ceb62b10c06c50509",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.607Z",
+    "updatedAt": "2026-09-23T06:13:48.607Z"
+  }
+]

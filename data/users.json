@@ -1,0 +1,54 @@
+[
+  {
+    "name": "System Administrator",
+    "email": "admin@college.edu",
+    "password": "$2b$10$J5bEPrrFFaLE0UrPUscyg.f7gYjEBugU8vKXVJow.035uPxxxbKie",
+    "role": "ADMIN",
+    "isActive": true,
+    "_id": "6ab36e1ceb62b10c06c50675",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.965Z",
+    "updatedAt": "2026-09-23T06:13:48.965Z"
+  },
+  {
+    "name": "Dr. Arun Kumar",
+    "email": "faculty.coordinator@college.edu",
+    "password": "$2b$10$NZzU.Wy5E/yrf2SUF/lUBu5NlDzOpQkOi0IvsZaAyYzC7xQYiNVaS",
+    "role": "FACULTY_COORDINATOR",
+    "facultyId": "6ab36e1ceb62b10c06c50534",
+    "departmentId": "6ab36e1ceb62b10c06c504f0",
+    "isActive": true,
+    "_id": "6ab36e1ceb62b10c06c50676",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.965Z",
+    "updatedAt": "2026-09-23T06:13:48.965Z"
+  },
+  {
+    "name": "Arunav Patel",
+    "email": "student@college.edu",
+    "password": "$2b$10$GBCpKm1TC7f1vRlKPhYVd.o1OXPEtWa6PiiLg8aJhwPUodGquFw4W",
+    "role": "STUDENT",
+    "departmentId": "6ab36e1ceb62b10c06c504f0",
+    "classId": "6ab36e1ceb62b10c06c504f7",
+    "sectionId": "6ab36e1ceb62b10c06c5050d",
+    "semester": 3,
+    "isActive": true,
+    "_id": "6ab36e1ceb62b10c06c50677",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.965Z",
+    "updatedAt": "2026-09-23T06:13:48.965Z"
+  },
+  {
+    "name": "Dr. Ramesh Babu",
+    "email": "it.coordinator@college.edu",
+    "password": "$2b$10$NZzU.Wy5E/yrf2SUF/lUBu5NlDzOpQkOi0IvsZaAyYzC7xQYiNVaS",
+    "role": "FACULTY_COORDINATOR",
+    "facultyId": "6ab36e1ceb62b10c06c5053b",
+    "departmentId": "6ab36e1ceb62b10c06c504f1",
+    "isActive": true,
+    "_id": "6ab36e1ceb62b10c06c50678",
+    "__v": 0,
+    "createdAt": "2026-09-23T06:13:48.965Z",
+    "updatedAt": "2026-09-23T06:13:48.965Z"
+  }
+]

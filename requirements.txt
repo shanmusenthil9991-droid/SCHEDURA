@@ -1,0 +1,27 @@
+# ============================================================
+# SCHEDURA — SYSTEM REQUIREMENTS SPECIFICATION
+# PS63 — Class Timetable & Schedule Viewer
+# ============================================================
+
+# RUNTIME ENVIRONMENT & PREREQUISITES
+Node.js >= 20.0.0
+npm >= 10.0.0
+MongoDB Community Server >= 7.0.0 (or MongoDB Atlas Cloud Cluster)
+Git >= 2.30.0
+Modern Web Browser (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari)
+
+# DATABASE
+MongoDB Database Name: schedura
+Default Connection URI: mongodb://127.0.0.1:27017/schedura
+Cloud Database Support: MongoDB Atlas (via MONGO_URI environment variable with TLS/SSL)
+
+# SYSTEM ARCHITECTURE
+Backend: Node.js / Express / TypeScript / Mongoose / JWT / bcryptjs / Zod
+Frontend: React 18 / TypeScript / Vite / Tailwind CSS / React Router / Lucide React / Axios
+Theme: Strict Modern Light Theme (#F8FAFC, #2563EB, #0F172A)
+
+# PACKAGE MANAGEMENT
+This application uses npm workspaces and package.json:
+- Root: ./package.json
+- Backend: ./backend/package.json
+- Frontend: ./frontend/package.json
