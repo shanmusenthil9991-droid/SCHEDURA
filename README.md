@@ -1,4 +1,4 @@
-# SCHEDURA
+<img width="1920" height="1020" alt="Screenshot 2026-09-23 141506" src="https://github.com/user-attachments/assets/595f231f-5bbe-44ba-bef0-924afeac29c6" /><img width="1920" height="1020" alt="Screenshot 2026-09-23 141506" src="https://github.com/user-attachments/assets/29b8e778-f520-4675-8b56-5179282291a2" /># SCHEDURA
 
 > **Smart Class Timetable & Schedule Management**  
 > *College Timetable Management Platform — PS63 Solution*
@@ -95,8 +95,12 @@ SCHEDURA/
 ├── requirements.txt      # System prerequisites specification
 └── README.md             # Project documentation
 ```
+<img width="1920" height="1020" alt="Screenshot 2026-09-23 141436" src="https://github.com/user-attachments/assets/d08c9937-023e-4029-b0d4-326cfb216428" />
+
 
 ---
 
+
 ## 📜 License
 © 2026 SCHEDURA. Smart Class Timetable & Schedule Management.
+
