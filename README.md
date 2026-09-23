@@ -95,7 +95,8 @@ SCHEDURA/
 ├── requirements.txt      # System prerequisites specification
 └── README.md             # Project documentation
 ```
-<img width="1920" height="1020" alt="Screenshot 2026-09-23 141436" src="https://github.com/user-attachments/assets/d08c9937-023e-4029-b0d4-326cfb216428" />
+<img width="655" height="592" alt="Screenshot 2026-09-23 135041" src="https://github.com/user-attachments/assets/d3e1d9d3-b3e8-4524-b0aa-825b13c745a8" />
+
 
 
 ---
