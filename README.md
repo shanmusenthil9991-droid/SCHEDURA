@@ -1,4 +1,5 @@
 <img width="1920" height="1020" alt="Screenshot 2026-09-23 141506" src="https://github.com/user-attachments/assets/52fa42a9-e17c-4ed6-9813-3bab2284b18d" />
+<img width="1920" height="1020" alt="Screenshot 2026-09-23 141454" src="https://github.com/user-attachments/assets/b0353b82-fd1b-4c6a-b265-5fa5a2f97ab4" />
 
 ---
 
@@ -92,8 +93,6 @@ SCHEDURA/
 ├── requirements.txt      # System prerequisites specification
 └── README.md             # Project documentation
 ```
-<img width="655" height="592" alt="Screenshot 2026-09-23 135041" src="https://github.com/user-attachments/assets/d3e1d9d3-b3e8-4524-b0aa-825b13c745a8" />
-
 
 
 ---
