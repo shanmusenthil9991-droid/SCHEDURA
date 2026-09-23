@@ -1,5 +1,18 @@
-<img width="1920" height="1020" alt="Screenshot 2026-09-23 141506" src="https://github.com/user-attachments/assets/595f231f-5bbe-44ba-bef0-924afeac29c6" /><img width="1920" height="1020" alt="Screenshot 2026-09-23 141506" src="https://github.com/user-attachments/assets/29b8e778-f520-4675-8b56-5179282291a2" /># SCHEDURA
-
+"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 135041.png"
+"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141506.png"
+"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141454.png"
+"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141449.png"
+"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141444.png"
+"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141436.png"
+"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141426.png"
+"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141422.png"
+"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141418.png"
+"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141413.png"
+"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141408.png"
+"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141342.png"
+"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141213.png"
+"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141158.png"
+"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141145.png"
 > **Smart Class Timetable & Schedule Management**  
 > *College Timetable Management Platform — PS63 Solution*
 
