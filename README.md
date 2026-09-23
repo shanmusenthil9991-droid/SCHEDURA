@@ -1,20 +1,4 @@
-"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 135041.png"
-"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141506.png"
-"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141454.png"
-"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141449.png"
-"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141444.png"
-"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141436.png"
-"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141426.png"
-"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141422.png"
-"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141418.png"
-"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141413.png"
-"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141408.png"
-"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141342.png"
-"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141213.png"
-"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141158.png"
-"C:\Users\shanm\OneDrive\Pictures\Screenshots\Screenshot 2026-09-23 141145.png"
-> **Smart Class Timetable & Schedule Management**  
-> *College Timetable Management Platform — PS63 Solution*
+![Uploading Screenshot 2026-09-23 135041.png…]()
 
 ---
 
